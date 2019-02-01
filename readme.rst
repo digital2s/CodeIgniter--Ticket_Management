@@ -16,5 +16,5 @@ Configuration
 ScreenShot
 **************************
 
- ![Conception](screenshot/conception.jpg "Concpetion")
+ ![Conception](screenshot/conception.jpg "Conception")
 
